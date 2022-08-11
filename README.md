@@ -1,3 +1,4 @@
+# PENSAMENTO COMPUTACIONAL
 - oi tudo bem?
 - meu nome Miguel Zagotto
 - sou estudante
