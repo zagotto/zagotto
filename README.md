@@ -1,4 +1,4 @@
-# PENSAMENTO COMPUTACIONAL
+# MINHA BIOGRAFIA
 - oi tudo bem?
 - meu nome Miguel Zagotto
 - sou estudante
