@@ -1,6 +1,10 @@
-oi 
-estudo no colégio estadual civico militar marechal rondon
-email: lucas.miguel@escola.pr.gov.br :zombie:	:call_me_hand:	
-gosto de fazer curso para saber mais sobre programação de pc 
-cursando curso de pensamento computacional
-:sauna_man:	
+- oi tudo bem?
+- meu nome Miguel Zagotto
+- sou estudante
+- colégio estadual civíco militar marechal rondon :nerd_face:	
+- estou cursando pensamento computacional 
+- por que estou cursando esse curso?
+- por conta de ser uma iniciativa do governo para nós ajudar a saber mais sobre informatica pois isso ajudou muitos estudantes eu estou gostando muito pois
+informatica não uma coisa facíl de se aprender
+- meu email para contato lucas.miguel@escola.pr.gov.br
+- obrigado!!:sunglasses:	
