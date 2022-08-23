@@ -1,6 +1,6 @@
 # MINHA BIOGRAFIA
-- oi tudo bem?
-- meu nome Miguel Zagotto
+- ****oi tudo bem?****
+- __meu nome Miguel Zagotto__
 - sou estudante
 - colégio estadual civíco militar marechal rondon :nerd_face:	
 - estou cursando pensamento computacional 
